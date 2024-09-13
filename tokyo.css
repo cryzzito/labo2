@@ -1,0 +1,16 @@
+
+    body {
+        background-color: lightpink;
+    }
+    h1 {
+        text-shadow: 1px 1px 2px black, 0 0 1em red, 0 0 0.2em red;
+        filter: grayscale(0.5); 
+        background-image: url(images/banniere.jpg);
+        background-position:center;
+        padding: 32px;
+        color:white;
+    }
+    h4 {
+        padding-left: 32px;
+        color: red
+    }
