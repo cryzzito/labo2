@@ -1,3 +1,8 @@
 body{
-    background-color: firebrick;
+    background-color: rgb(34, 106, 178);
+}
+h1{
+    background-color: rgb(85, 0, 255);
+    padding: 16px;
+    color: white
 }
